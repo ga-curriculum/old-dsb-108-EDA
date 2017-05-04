@@ -6,7 +6,7 @@ _Editor: Sam Stack_
 
 - Added '.DS_Store' & '*.ipynb_checkpoints' to .gitignore.
 
-- modified some code examples and added additional methods or performing some tasks.
+- modified some code examples and added additional methods for performing some tasks.
 
 
 
