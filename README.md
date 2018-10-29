@@ -48,7 +48,7 @@ I. **Intro to EDA** (90 minutes total)
 - Look at correlation between the variables
 
 ---
-> **Dataset description:** N/A
+> **Dataset description:**
 
 The columns of the dataset are coded. The corresponding descriptions are:
 
