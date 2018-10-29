@@ -28,7 +28,7 @@
 
 *Before this lesson(s), students should already be able to:*
 
-1. Have familiarty with Pandas
+1. Have familiarity with Pandas
 
 ---
 
